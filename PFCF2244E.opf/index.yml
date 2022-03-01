@@ -1,0 +1,136 @@
+id: c0387b0e09c94f59aaa0220320d23a3f
+annotation_type: index
+revision: '00001'
+annotations:
+  c4f3455ca6a64ce69536051348121db7:
+    work_id: W540E46A6
+    span:
+      vol: CI_Folio 2a
+      start: 0
+      end: 2165
+  0539652197d748d08b18809f35c0e176:
+    work_id: W56C7CC68
+    span:
+      vol: CI_Folio 2b
+      start: 0
+      end: 618
+  9351d15f24494243be4992c23a104e5b:
+    work_id: WCC5BEF49
+    span:
+      vol: CI_Folio 3a
+      start: 0
+      end: 3667
+  9f2bf2737fd9415ea80aeeac13ef78f9:
+    work_id: W9E8E8677
+    span:
+      vol: CI_Folio 3b
+      start: 0
+      end: 1960
+  c9d35366810c4f39b8b4a10c96d31516:
+    work_id: WA2003036
+    span:
+      vol: CI_Folio 4a
+      start: 0
+      end: 2435
+  18ecdb2dfc8642d69b23623f8f7717de:
+    work_id: W2B72DB08
+    span:
+      vol: CI_Folio 4b
+      start: 0
+      end: 2393
+  20a9b0307c074f5dbccd14ae10b1f4fe:
+    work_id: W781E47E3
+    span:
+      vol: CI_Folio 5a
+      start: 0
+      end: 913
+  a895723280334b0ea61d9ccb887bb447:
+    work_id: W44E7B880
+    span:
+      vol: CI_Folio 5b
+      start: 0
+      end: 1030
+  20aa651956d54d90a55fd6b32c3c8c6b:
+    work_id: WD4154EAA
+    span:
+      vol: CI_Folio 6a
+      start: 0
+      end: 20826
+  d8a28b4b67c1485c891ead033533cdc3:
+    work_id: WF8341FE6
+    span:
+      vol: 'Chapter 10: Dhyānapāramitā'
+      start: 0
+      end: 1102
+  03dff3a684934495a73715dd872d2aee:
+    work_id: W7909C48C
+    span:
+      vol: 'Chapter 11: Prajñāpāramitā'
+      start: 0
+      end: 6183
+  c769fb314a814211b09f6df69cb66b69:
+    work_id: WD9905B79
+    span:
+      vol: 'Chapter 2: Kimbhīrayakṣa'
+      start: 0
+      end: 0
+  202f47756f434222a50dc2cb0c11ef17:
+    work_id: WDC4539C4
+    span:
+      vol: 'Chapter 3: Bodhisatvaparīkṣā'
+      start: 0
+      end: 0
+  2b2c96318fb447ff8a767f5877f0a3ed:
+    work_id: W4D02EF92
+    span:
+      vol: 'Chapter 4: Tathāgatācintya'
+      start: 0
+      end: 0
+  8326a5bd1f774794a9b52b3c8a59ac38:
+    work_id: W9F235622
+    span:
+      vol: 'Chapter 5: Caturbrahmavihāra'
+      start: 0
+      end: 0
+  5781bcb873874c8ea067a6b135dcfecd:
+    work_id: W9F47512B
+    span:
+      vol: 'Chapter 6: Dānapāramitā'
+      start: 0
+      end: 0
+  2cf645ba60d740698424289888710858:
+    work_id: W2CCE8CD1
+    span:
+      vol: 'Chapter 7: Śīlapāramitā'
+      start: 0
+      end: 0
+  4bda6d9310894edea520eb7690e9dfa7:
+    work_id: W02264364
+    span:
+      vol: 'Chapter 8: Kṣāntipāramitā'
+      start: 0
+      end: 0
+  cc2bc3b29a1e4400b2f2edeab5fc4a96:
+    work_id: W33059879
+    span:
+      vol: 'Chapter 9: Vīryapāramitā'
+      start: 0
+      end: 0
+  fe4a737f14764730be197f15f9a84f39:
+    work_id: W697B3843
+    span:
+      vol: Colophon
+      start: 0
+      end: 6722
+  de466a829f9248289269040a75226e1b:
+    work_id: W04322882
+    span:
+      vol: Preface
+      start: 0
+      end: 77
+  ec5373e2dfd14246b777a88cee6d8e04:
+    work_id: WA827FD64
+    span:
+      vol: Title
+      start: 0
+      end: 62
